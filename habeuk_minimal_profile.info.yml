@@ -1,0 +1,75 @@
+name: habeuk_minimal_profile
+type: profile
+description: "habeuk profile installation"
+core_version_requirement: ^9 || ^10
+
+# Ces modules ne peuvent etre desinstaller par l'utilisateur
+dependencies:
+  - paragraphs
+  - pathauto
+  - formatage_models
+  - layoutgenentitystyles  
+distribution:
+  name: "HABEUK template Drupal 10"
+#  langcode: fr # l'utilisateur doit pouvoir selectionner la langue.
+
+# Ces modules peuvent etre desinstaller par l'utilisateur.
+# ( les modules du profiles standard seront egalement installé )
+install:
+  # core begin standard : D10.2.3
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor5
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - views
+  - views_ui
+  - automated_cron
+  - announcements_feed
+  #core begin standard : D10.2.3
+  - statistics
+  - config_translation
+  ######## CONTRIB
+  - transliterate_filenames
+  ######## CUSTOM 
+  - admin_toolbar_tools
+  - geolocation
+  - twig_vardumper
+  - hot_models
+  - spaker_mod
+  - clothingslayouts
+  - fullswiperoptions
+  - login_rx_vuejs
+  - owlcarousel
+  - habeuk_utilitaire
+  - more_fields
+  - apivuejs
+  - filesmanager
+  - layout_custom_style
+
+themes:
+  - claro
+  - wb_universe
