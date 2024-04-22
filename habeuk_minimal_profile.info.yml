@@ -10,7 +10,7 @@ dependencies:
   - formatage_models
   - layoutgenentitystyles  
 distribution:
-  name: "HABEUK template Drupal 10"
+  name: "HABEUK template minimal Drupal 10"
 #  langcode: fr # l'utilisateur doit pouvoir selectionner la langue.
 
 # Ces modules peuvent etre desinstaller par l'utilisateur.
@@ -53,22 +53,18 @@ install:
   - statistics
   - config_translation
   ######## CONTRIB
-  - transliterate_filenames
+  
   ######## CUSTOM 
-  - admin_toolbar_tools
-  - geolocation
-  - twig_vardumper
   - hot_models
   - spaker_mod
-  - clothingslayouts
   - fullswiperoptions
   - login_rx_vuejs
-  - owlcarousel
   - habeuk_utilitaire
   - more_fields
   - apivuejs
   - filesmanager
   - layout_custom_style
+  - fast_models
 
 themes:
   - claro
