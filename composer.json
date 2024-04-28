@@ -29,7 +29,7 @@
     "habeuk/apivuejs": "dev-1x|^1.2.2",
     "habeuk/filesmanager": "dev-1x|^1.0.15", 
     "habeuk/layoutgenentitystyles": "^3.0.0|dev-3x",
-    "habeuk/fast_models": "^1.2"       
+    "habeuk/fast_models": "^1.2|dev-1x"       
   },
   "config": {
     "allow-plugins": {
