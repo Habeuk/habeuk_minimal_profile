@@ -20,16 +20,16 @@
   "require": {    
     "drupal/paragraphs": "^1.14",
     "drupal/pathauto": "^1.12",    
-    "habeuk/hot_models": "dev-1x|^1.1.7",
-    "habeuk/spaker_mod": "dev-2x|^2.1.3",    
-    "habeuk/formatage_models": "dev-4x|^4.1.6",
+    "habeuk/hot_models": "dev-1x|^1.2.1",
+    "habeuk/spaker_mod": "dev-2x|^2.1.6",    
+    "habeuk/formatage_models": "dev-4x|^4.1.12",
     "habeuk/fullswiperoptions": "dev-1x|^1.2.35",
-    "habeuk/wb_universe": "^4.1.6|dev-4x",
-    "habeuk/more_fields": "dev-2x|^2.2.8",
+    "habeuk/wb_universe": "^4.1.14|dev-4x",
+    "habeuk/more_fields": "dev-2x|^2.2.12",
     "habeuk/apivuejs": "dev-1x|^1.2.2",
     "habeuk/filesmanager": "dev-1x|^1.0.15", 
-    "habeuk/layoutgenentitystyles": "^3.0.0|dev-3x",
-    "habeuk/fast_models": "^1.2.5|dev-1x"       
+    "habeuk/layoutgenentitystyles": "^3.0.2|dev-3x",
+    "habeuk/fast_models": "^1.2.7|dev-1x"       
   },
   "config": {
     "allow-plugins": {
