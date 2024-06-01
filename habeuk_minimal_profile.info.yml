@@ -61,7 +61,6 @@ install:
   - login_rx_vuejs
   - habeuk_utilitaire
   - more_fields
-  - apivuejs
   - filesmanager
   - layout_custom_style
   - fast_models
