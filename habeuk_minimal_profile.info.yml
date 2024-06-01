@@ -9,8 +9,9 @@ dependencies:
   - pathauto
   - formatage_models
   - layoutgenentitystyles  
-distribution:
-  name: "HABEUK template minimal Drupal 10"
+# Ce paramettre est utilisé pour definir le profile par defaut.
+#distribution:
+#  name: "HABEUK template minimal Drupal 10"
 #  langcode: fr # l'utilisateur doit pouvoir selectionner la langue.
 
 # Ces modules peuvent etre desinstaller par l'utilisateur.
