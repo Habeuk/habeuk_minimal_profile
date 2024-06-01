@@ -22,13 +22,13 @@
     "drupal/pathauto": "^1.12",    
     "habeuk/hot_models": "dev-1x|^1.2.1",
     "habeuk/spaker_mod": "dev-2x|^2.1.6",    
-    "habeuk/formatage_models": "dev-4x|^4.1.12",
-    "habeuk/fullswiperoptions": "dev-1x|^1.2.35",
+    "habeuk/formatage_models": "dev-4x|^4.1.13",
+    "habeuk/fullswiperoptions": "dev-1x|^1.2.37",
     "habeuk/wb_universe": "^4.1.14|dev-4x",
-    "habeuk/more_fields": "dev-2x|^2.2.12",
+    "habeuk/more_fields": "dev-2x|^2.2.14",
     "habeuk/apivuejs": "dev-1x|^1.2.2",
     "habeuk/filesmanager": "dev-1x|^1.0.15", 
-    "habeuk/layoutgenentitystyles": "^3.0.2|dev-3x",
+    "habeuk/layoutgenentitystyles": "^3.0.3|dev-3x",
     "habeuk/fast_models": "^1.2.7|dev-1x"       
   },
   "config": {
