@@ -17,18 +17,18 @@
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "require": {    
+  "require": {
     "drupal/paragraphs": "^1.14",
-    "drupal/pathauto": "^1.12",    
+    "drupal/pathauto": "^1.12",
+    "drupal/formatage_models": "dev-4x|^4.1.19",
+    "drupal/fullswiperoptions": "dev-1x|^1.2.37",
+    "drupal/layoutgenentitystyles": "^3.1.0|dev-3x",
+    "drupal/more_fields": "dev-2x|^2.2.19",
+    "drupal/wb_universe": "^4.2.7|dev-4x",
     "habeuk/hot_models": "dev-1x|^1.2.1",
-    "habeuk/spaker_mod": "dev-2x|^2.1.6",    
-    "habeuk/formatage_models": "dev-4x|^4.1.13",
-    "habeuk/fullswiperoptions": "dev-1x|^1.2.37",
-    "habeuk/wb_universe": "^4.1.14|dev-4x",
-    "habeuk/more_fields": "dev-2x|^2.2.14",
-    "habeuk/filesmanager": "dev-1x|^1.0.15", 
-    "habeuk/layoutgenentitystyles": "^3.0.3|dev-3x",
-    "habeuk/fast_models": "^1.2.7|dev-1x"       
+    "habeuk/spaker_mod": "dev-2x|^2.1.6",
+    "habeuk/filesmanager": "dev-1x|^1.0.15",
+    "habeuk/fast_models": "^1.2.7|dev-1x"    
   },
   "config": {
     "allow-plugins": {
