@@ -1,4 +1,4 @@
-name: habeuk_minimal_profile
+name: Habeuk minimal
 type: profile
 description: "habeuk profile minimal"
 core_version_requirement: ^10
@@ -56,14 +56,11 @@ install:
   ######## CONTRIB
   
   ######## CUSTOM 
-  - hot_models
-  - spaker_mod
   - fullswiperoptions
   - habeuk_utilitaire
   - more_fields
   - filesmanager
   - layout_custom_style
-  - fast_models
 
 themes:
   - claro
