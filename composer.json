@@ -23,9 +23,9 @@
     "drupal/filesmanager": "dev-1x|^1.0.10",
     "drupal/formatage_models": "dev-4x|^4.1.50",
     "drupal/fullswiperoptions": "dev-1x|^1.2.42",
-    "drupal/layoutgenentitystyles": "^3.1.1|3.x-dev|^4.0.0|4.x-dev",
+    "drupal/layoutgenentitystyles": "^5.0.0|5.x-dev",
     "drupal/more_fields": "dev-2x|^2.2.46",
-    "drupal/wb_universe": "^4.2.25|dev-4x"  
+    "drupal/wb_universe": "^5.0.0|dev-5x|5.x-dev"  
   },
   "config": {
     "allow-plugins": {
