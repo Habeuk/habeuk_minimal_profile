@@ -22,7 +22,7 @@
     "drupal/pathauto": "^1.12",
     "drupal/filesmanager": "dev-1x|^1.0.10",
     "drupal/formatage_models": "dev-4x|^4.1.50",
-    "drupal/fullswiperoptions": "dev-1x|^1.2.42",
+    "drupal/fullswiperoptions": "2.x-dev|^2.0.0",
     "drupal/layoutgenentitystyles": "^5.0.11|5.x-dev",
     "drupal/more_fields": "dev-2x|^2.2.46",
     "drupal/wb_universe": "^5.0.0|dev-5x|5.x-dev"  
